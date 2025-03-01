@@ -1,5 +1,5 @@
 <footer>
-        <p>&copy; 2023 E-Commerce</p>
+        <p>&copy; GDG E-Commerce</p>
     </footer>
 </body>
 </html>
