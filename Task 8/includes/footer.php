@@ -1,5 +1,5 @@
 <footer>
-        <p>&copy; GDG E-Commerce</p>
+        <p>&copy; GDG </p>
     </footer>
 </body>
 </html>
